@@ -1,0 +1,18 @@
+<!-- What is Blueprint? What does it mean to 'register a blueprint'?
+
+troubleshooting??
+
+How to read the formatting on the forms.py data entries
+
+__init__'s '.site' and '.auth' format
+
+args, kwargs helpers file --all of helpers
+
+What is '__name__'?
+
+all of the imports and functions - so much to know about this aspect
+
+token? per device or per IP or per user?
+
+everything on the config page -->
+
